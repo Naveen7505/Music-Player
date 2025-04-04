@@ -8,7 +8,7 @@ Snapshoot:-
 
 
 
-Video:-
+Output:-
 
 
 
