@@ -16,3 +16,29 @@ Output:-
 
 https://github.com/user-attachments/assets/954e8a27-e0da-4eb0-bccd-efa6634cbdce
 
+
+Naveen Music is a dynamic music streaming platform designed to enhance the listening experience with an intuitive UI and personalized features. The application allows users to explore favorite tracks, follow artists, and enjoy a seamless playback experience.
+
+Features
+Personalized Music Library: – Users can access their favorite songs and artists.
+
+Artist Profiles:– View detailed information about top artists like Arijit Singh.
+
+Curated Playlists :– Enjoy an organized selection of trending tracks.
+
+Recently Played Section :– Quick access to previously listened songs.
+
+Music Player :– Integrated player with play/pause, volume, and track controls.
+
+Technologies Used
+
+HTML & CSS – Structuring and styling the application for a sleek look.
+
+Usage
+Explore Music – Browse artists and song collections.
+
+Play Tracks – Click on any song to start listening.
+
+Follow Artists – Stay updated on your favorite musicians.
+
+Enjoy Commentary – Engage with music details and artist information.
